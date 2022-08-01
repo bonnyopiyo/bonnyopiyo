@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/bonfaceosindi" target="blank"><img src="https://img.shields.io/twitter/follow/bonfaceosindi?logo=twitter&style=for-the-badge" alt="bonfaceosindi" /></a> </p>
 
-- 🔭 I’m currently working on **A Network Analysis of Game of Thrones**
+- 🔭 I’m currently working on **A Time Series Analysis Project**
 
 - 🌱 I’m currently learning **R for Data Science.**
 
 - 👨‍💻 All of my projects are available at my [GitHub Repositories](https://github.com/bonnyopiyo?tab=repositories)
 
-- 📝 I regularly write articles on [datacraftshub.com](https://datacraftshub.com)
-
 - 💬 Ask me about **Full-Stack development using Python/JavaScript, Data Science and Data Analytics, Database Administration**
 
 - 📫 How to reach me **bonfaceosindi@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://datacraftshub.com/uploads/resume.pdf)
 
 - ⚡ Fun fact **Apt chess player**
 
