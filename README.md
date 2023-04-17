@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/bonfaceosindi" target="blank"><img src="https://img.shields.io/twitter/follow/bonfaceosindi?logo=twitter&style=for-the-badge" alt="bonfaceosindi" /></a> </p>
 
-- 🔭 I’m currently working on **A Time Series Analysis Project**
+- 🔭 I’m currently working on **Virtual Livestock AI Model Project for Techmind Africa**
 
-- 🌱 I’m currently learning **R for Data Science.**
+- 🌱 I’m currently learning **Advanced ML, AI and Data Science**
 
 - 👨‍💻 All of my projects are available at my [GitHub Repositories](https://github.com/bonnyopiyo?tab=repositories)
 
-- 💬 Ask me about **Full-Stack development using Python/JavaScript, Data Science and Data Analytics, Database Administration**
+- 💬 Ask me about **Full-Stack development using Python, Data Science and Data Analytics, Database Administration**
 
 - 📫 How to reach me **bonfaceosindi@gmail.com**
 
-- ⚡ Fun fact **Apt chess player**
+- ⚡ Fun fact **Every day, humans generate around 2.5 quintillion bytes of data, equivalent to 2.5 million gigabytes, from various sources such as social media posts, online searches, sensor readings, and more. This massive amount of data is known as 'big data' and presents exciting opportunities for data scientists to extract valuable insights and drive decision-making.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
