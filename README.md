@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bonfaceosindi" target="blank"><img src="https://img.shields.io/twitter/follow/bonfaceosindi?logo=twitter&style=for-the-badge" alt="bonfaceosindi" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual Livestock AI Model Project for Techmind Africa**
+- 🔭 I’m currently working on **Virtual Livestock Unit AI Model Project for Techmind Africa**
 
 - 🌱 I’m currently learning **Advanced ML, AI and Data Science**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Full-Stack development using Python, Data Science and Data Analytics, Database Administration**
 
-- 📫 How to reach me **bonfaceosindi@gmail.com**
+- 📫 How to reach me **bonfaceosindi@yahoo.com**
 
 - ⚡ Fun fact **Every day, humans generate around 2.5 quintillion bytes of data, equivalent to 2.5 million gigabytes, from various sources such as social media posts, online searches, sensor readings, and more. This massive amount of data is known as 'big data' and presents exciting opportunities for data scientists to extract valuable insights and drive decision-making.**
 
