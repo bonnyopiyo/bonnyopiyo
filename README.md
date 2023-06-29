@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bonface Osindi</h1>
-<h3 align="center">A passionate Statistician, Data Analyst, Data Engineer, Database Administrator, and Community Ambassador</h3>
+<h3 align="center">A passionate Statistician, Data Analyst, and Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonnyopiyo&label=Profile%20views&color=0e75b6&style=flat" alt="bonnyopiyo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bonfaceosindi" target="blank"><img src="https://img.shields.io/twitter/follow/bonfaceosindi?logo=twitter&style=for-the-badge" alt="bonfaceosindi" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual Livestock Unit AI Model Project for Techmind Africa**
+- 🔭 I’m currently working on a **Virtual Livestock Unit AI Model Project for Techmind Africa**
 
 - 🌱 I’m currently learning **Advanced ML, AI and Data Science**
 
 - 👨‍💻 All of my projects are available at my [GitHub Repositories](https://github.com/bonnyopiyo?tab=repositories)
 
-- 💬 Ask me about **Full-Stack development using Python, Data Science and Data Analytics, Database Administration**
+- 💬 Ask me about **Data and Data Engineering**
 
 - 📫 How to reach me **bonfaceosindi@yahoo.com**
 
