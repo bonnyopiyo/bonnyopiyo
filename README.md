@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a Virtual Livestock Unit AI Model for Techmindset Africa**
 
-- 🌱 I’m currently learning **Advanced ML, AI and Data Science**
+- 🌱 I’m currently an employee of **Center for Epidemiological Modeling and Analysis @UoN as a Data Scientist**
 
 - 👯 I’m looking to collaborate on [Maskani Apartments Project as a Data Engineer Expert](https://github.com/Maskani-Apartments)
 
