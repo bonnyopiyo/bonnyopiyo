@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/bonfaceosindi" target="blank"><img src="https://img.shields.io/twitter/follow/bonfaceosindi?logo=twitter&style=for-the-badge" alt="bonfaceosindi" /></a> </p>
 
-- 🔭 I’m currently working on **a Virtual Livestock Unit AI Model for Techmindset Africa**
+- 🔭 I’m currently working on two projects:
+- **1. A Virtual Livestock Unit AI Model for Techmindset Africa**
+- **1. Kenya Demographic Health Survey Dashboard Using R and It's Libraries (https://cema.shinyapps.io/KDHS_2022_Osindi/)**
 
 - 🌱 I’m currently an employee of **[Center for Epidemiological Modeling and Analysis @UoN](https://cema.africa/) as a Data Scientist**
 
