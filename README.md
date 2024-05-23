@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bonfaceosindi" target="blank"><img src="https://img.shields.io/twitter/follow/bonfaceosindi?logo=twitter&style=for-the-badge" alt="bonfaceosindi" /></a> </p>
 
-- 🔭 I’m currently working on two projects:
-- **A Virtual Livestock Unit AI Model for Techmindset Africa**
-- **Kenya Demographic Health Survey Dashboard Using R and It's Libraries (https://cema.shinyapps.io/KDHS_2022_Osindi/)**
-
-- 🌱 I’m currently an employee of **[Center for Epidemiological Modeling and Analysis @UoN](https://cema.africa/) as a Data Scientist**
+- 🌱 I’m currently an employee of **[Washington State University GH-K](https://globalhealth.wsu.edu/global-health/kenya/) as an Associate Data Scientist**
 
 - 👯 I’m looking to collaborate on [Maskani Apartments Project as a Data Engineer Expert](https://github.com/Maskani-Apartments)
 
@@ -17,7 +13,7 @@
 
 - 💬 Ask me about **Data and what it can do.**
 
-- 📫 How to reach me **bonfaceosindi@yahoo.com**
+- 📫 How to reach me **bonfaceosindi@gmail.com**
 
 - ⚡ Fun fact **Every day, humans generate around 2.5 quintillion bytes of data, equivalent to 2.5 million gigabytes, from various sources such as social media posts, online searches, sensor readings, and more. This massive amount of data is known as 'big data' and presents exciting opportunities for data scientists to extract valuable insights and drive decision-making.**
 
