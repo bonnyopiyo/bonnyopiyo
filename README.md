@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bonfaceosindi" target="blank"><img src="https://img.shields.io/twitter/follow/bonfaceosindi?logo=twitter&style=for-the-badge" alt="bonfaceosindi" /></a> </p>
 
-- 🌱 I’m currently an employee of **[Washington State University GH-K](https://globalhealth.wsu.edu/global-health/kenya/) as an Associate Data Scientist**
+- 🌱 I’m currently an employee of **[Washington State University GH-K](https://globalhealth.wsu.edu/global-health/kenya/) as a Data Scientist**
 
 - 👯 I’m looking to collaborate on [Maskani Apartments Project as a Data Engineer Expert](https://github.com/Maskani-Apartments)
 
